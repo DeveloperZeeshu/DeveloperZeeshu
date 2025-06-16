@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zeeshaan,
+- 👋 Hi, I’m Jeesan,
 - 👀 Always excited to learn new technologies and work on challenging projects!
 - 🌱 Currently diving into Machine learning concepts and exploring data structures to enhance my programming skills.
 
