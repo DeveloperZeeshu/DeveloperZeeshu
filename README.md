@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeveloperZeeshu&show_icons=true&theme=radical&hide_title=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeeshaan-Abbas&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=DeveloperZeeshu&theme=radical" width="48%"/>
 </p>
 
 ---
@@ -31,15 +31,15 @@
 ### 📈 Languages (Bar Graph)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperZeeshu&layout=compact&theme=tokyonight" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperZeeshu&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
 
 ### 🧩 Contribution Graph
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Zeeshaan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=DeveloperZeeshu&theme=github-compact&hide_border=true" />
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img alt="Zeeshaan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperZeeshu&theme=github-compact&hide_border=true" />
 </a>
 
 ---
