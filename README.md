@@ -1,21 +1,19 @@
-<h1 align="center">Hi 👋, I'm Zeeshaan Abbas</h1>
-<h3 align="center">Aspiring AI/ML Developer | Full Stack Enthusiast | Curious Coder</h3>
+<h1 align="center">Hi 👋, I'm Jeesan Abbas</h1>
+<h3 align="center">Full Stack Developer | Curious Coder | Aspiring AI/ML Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b2471153c89d5d9c5e704ac.gif" />
 
 - 🔭 I’m currently working on **MERN Stack + AI Projects**
-- 🌱 I’m currently learning **DSA, Math for ML, and Deep Learning**
+- 🌱 I’m currently learning **DSA and ML concepts**
 - 👯 I’m looking to collaborate on **open-source AI projects**
-- 📝 I write articles on [Hashnode](https://hashnode.com) *(if applicable)*
 - 💬 Ask me about **React, Node.js, MongoDB, Python**
-- 📫 How to reach me **zeeshaan@example.com**
-- ⚡ Fun fact: *I write clean code and drink too much chai*
+- 📫 How to reach me **itsabbaszeeshaan0604@gmail.com**
 
 ---
 
 ### 🧠 Languages & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,cpp,git,github,vscode" />
 </p>
 
