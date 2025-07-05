@@ -24,7 +24,7 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeeshaan-Abbas&show_icons=true&theme=radical&hide_title=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperZeeshu&show_icons=true&theme=radical&hide_title=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeeshaan-Abbas&theme=radical" width="48%"/>
 </p>
 
@@ -33,7 +33,7 @@
 ### 📈 Languages (Bar Graph)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshaan-Abbas&layout=compact&theme=tokyonight" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperZeeshu&layout=compact&theme=tokyonight" width="50%"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ### 🧩 Contribution Graph
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Zeeshaan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Zeeshaan-Abbas&theme=github-compact&hide_border=true" />
+  <img alt="Zeeshaan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=DeveloperZeeshu&theme=github-compact&hide_border=true" />
 </a>
 
 ---
@@ -49,7 +49,7 @@
 ### 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zeeshaan-Abbas&theme=onedark&row=1&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DeveloperZeeshu&theme=onedark&row=1&no-bg=true&no-frame=true" />
 </p>
 
 ---
@@ -57,8 +57,8 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/zeeshaan-abbas" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:zeeshaan@example.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+  <a href="www.linkedin.com/in/jeesan-abbas-a51972320" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+  <a href="mailto:itsabbaszeeshaan0604@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
   <a href="https://twitter.com/zeeshaanabbas" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="30" width="30" /></a>
 </p>
 
