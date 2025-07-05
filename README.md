@@ -55,7 +55,7 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/jeesan-abbas-a51972320" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/jeesan-abbas-a51972320" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
   <a href="mailto:itsabbaszeeshaan0604@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
   <a href="https://twitter.com/zeeshaanabbas" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="30" width="30" /></a>
 </p>
