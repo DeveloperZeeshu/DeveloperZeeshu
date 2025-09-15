@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jeesan Abbas</h1>
-<h3 align="center">Full Stack Developer | Curious Coder</h3>
+<h3 align="center">Aspiring Full Stack Developer | Curious Coder</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b2471153c89d5d9c5e704ac.gif" />
 
 - 🔭 I’m currently working on **MERN Stack**
 - 🌱 I’m currently learning **DSA concepts**
-- 💬 Ask me about **React, Node.js, MongoDB, C++**
+- 💬 Ask me about **React, Node.js, MySQL, C++**
 - 📫 How to reach me **itsabbaszeeshaan0604@gmail.com**
 
 ---
